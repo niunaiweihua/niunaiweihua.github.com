@@ -16,10 +16,10 @@ export default class Schedule extends React.Component {
 	{
 		return (
             <div className="wrapper">
-                <MetaTags>
-                    <meta name="description" content="Schedule page meta description" />
-                    <meta name="keywords" content="Schedule page meta keywords" />
-                </MetaTags>
+				<MetaTags>
+					<meta name="description" content="niunaiweihua.github.com 1321222 Schedule page meta description" />
+					<meta name="keywords" content="niunaiweihua.github.com schedule keywords" />
+				</MetaTags>
                 <div>schedule</div>
             </div>
 		)
