@@ -11,6 +11,10 @@ class app extends React.Component{
         return (
             <Router>
                 <React.Fragment>
+                    <div>
+                        <Link to="/home">HOME</Link>
+                        <Link to="/schedule">SCHEDULE</Link>
+                    </div>
                     <MainRoute />
                 </React.Fragment>
             </Router>

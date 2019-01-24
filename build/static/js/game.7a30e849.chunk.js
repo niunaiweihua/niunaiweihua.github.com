@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{39:function(n,e,t){"use strict";t.r(e),t.d(e,"default",function(){return p});var u=t(5),o=t(6),c=t(8),a=t(7),i=t(9),r=t(1),l=t.n(r),p=function(n){function e(){return Object(u.a)(this,e),Object(c.a)(this,Object(a.a)(e).apply(this,arguments))}return Object(i.a)(e,n),Object(o.a)(e,[{key:"componentDidMount",value:function(){}},{key:"componentWillUnmount",value:function(){}},{key:"render",value:function(){return l.a.createElement("div",null,"game")}}]),e}(l.a.Component)}}]);
+//# sourceMappingURL=game.7a30e849.chunk.js.map
